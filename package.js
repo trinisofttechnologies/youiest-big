@@ -99,9 +99,9 @@ Package.on_test(function (api) {
     'server.js'
   ], ['server']);
 
-  api.add_files([
-    'test.js'
-  ], ['client','server']);   
+  // api.add_files([
+  //   'test.js'
+  // ], ['client','server']);   
   // api.add_files([
   //   'lib.coffee',
   //   'testUpdateClient.coffee',
